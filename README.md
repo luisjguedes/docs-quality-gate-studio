@@ -2,6 +2,8 @@
 
 A Vercel-ready Next.js app that runs a transparent, client-side documentation quality gate for structure, clarity, API readiness, completeness, and review risk.
 
+Live app: https://docs-quality-gate-studio.vercel.app/
+
 The app does not use AI APIs, tokens, databases, analytics, login, or saved evaluations. It is designed as a serious interactive product demo for DocsOps and API documentation judgment.
 
 ## What it does
